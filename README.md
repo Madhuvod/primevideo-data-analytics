@@ -4,6 +4,14 @@ This Amazon prime video data analysis using Tableau Dashboard has multiple visua
 # Tableau Dashboard:
 ![Tableau Dashboard](https://github.com/Madhuvod/primevideo-data-analytics/blob/main/primevideo_dashboard.png)
 
+I haved used a amazon_primevideo.csv dataset that has 10,000 columns from kaggle
+This Dashboard has 
+- the top 15 Ratings where in the childern aged 13+ have given a lot of ratings to Movies and Shows
+- total shows by a country - India (229) is highest. (Created this using MapBox)
+- Shows by Release Type and Year
+- Top 10 Genres
+- Shows by type - either Movie(7,814) or a TV Show(1854)
+
 By leveraging interactive visualizations and filters, users can explore detailed metrics related to movies and TV shows, facilitating data-driven decision-making. Here are the key takeaways from the analysis:
 
 Content Performance and Growth: The dashboard revealed that Amazon Prime Video hosts over 15,000 shows and movies, with a significant increase in content availability in recent years. This growth trend underscores the platform's expanding library and its commitment to offering diverse content.
