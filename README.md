@@ -1,6 +1,9 @@
 # Primevideo-data-analysis
 This Amazon prime video data analysis using Tableau Dashboard has multiple visualizations. This is d2c digital media product - Amazon Prime Video or any other Streaming Service of that matter, can take into account the various visualisations and insights gained from the dashboard, thus making better business decisions from this data efficiently.
 
+# Tableau Dashboard:
+![Tableau Dashboard](https://github.com/Madhuvod/primevideo-data-analytics/blob/main/primevideo_dashboard.png)
+
 By leveraging interactive visualizations and filters, users can explore detailed metrics related to movies and TV shows, facilitating data-driven decision-making. Here are the key takeaways from the analysis:
 
 Content Performance and Growth: The dashboard revealed that Amazon Prime Video hosts over 15,000 shows and movies, with a significant increase in content availability in recent years. This growth trend underscores the platform's expanding library and its commitment to offering diverse content.
@@ -15,8 +18,13 @@ Release Patterns: The release timeline visualization underscored the platform’
 
 The insights derived from the Tableau dashboard can inform several strategic areas:
 
-#Content Acquisition: Prioritize acquiring more content in high-engagement genres like Drama, Comedy, and Action.
-#Viewer Engagement: Focus on promoting highly-rated content to boost viewer interaction and retention.
-#Content Strategy: Optimize the duration of content across different genres to better meet audience expectations.
-#Growth Analysis: Leverage the release patterns data to predict future trends and plan for content expansion accordingly.
+# Content Acquisition: 
+Prioritize acquiring more content in high-engagement genres like Drama, Comedy, and Action.
+# Viewer Engagement: 
+Focus on promoting highly-rated content to boost viewer interaction and retention.
+# Content Strategy: 
+Optimize the duration of content across different genres to better meet audience expectations.
+# Growth Analysis: 
+Leverage the release patterns data to predict future trends and plan for content expansion accordingly.
+
 In summary, the Tableau dashboard for Amazon Prime Videos is an essential tool for gaining comprehensive insights into the platform’s content dynamics. By utilizing these insights, stakeholders can make informed decisions to enhance content strategy, viewer engagement, and overall platform growth.
