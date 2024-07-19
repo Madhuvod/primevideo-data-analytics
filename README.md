@@ -18,8 +18,7 @@ Release Patterns: The release timeline visualization underscored the platform’
 
 The insights derived from the Tableau dashboard can inform several strategic areas:
 
-# Content Acquisition: 
-Prioritize acquiring more content in high-engagement genres like Drama, Comedy, and Action.
+# Content Acquisition: Prioritize acquiring more content in high-engagement genres like Drama, Comedy, and Action.
 # Viewer Engagement: 
 Focus on promoting highly-rated content to boost viewer interaction and retention.
 # Content Strategy: 
